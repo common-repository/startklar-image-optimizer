@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: startklar-image-optimizer\n"
+"POT-Creation-Date: 2022-06-16 19:15+0300\n"
+"PO-Revision-Date: 2022-06-16 19:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: StartklarPluginAdminPage.class.php\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: StartklarPluginAdminPage.class.php:10 StartklarPluginAdminPage.class.php:11
+msgid "Startklar Image Optimizer"
+msgstr ""
+
+#: StartklarPluginAdminPage.class.php:42
+msgid "The mandatory utility pngquant detect!"
+msgstr "Обязательная утилита pngquant обнаружена!"
+
+#: StartklarPluginAdminPage.class.php:48
+msgid ""
+"The mandatory utility pngquant required for the plugin to work is missing!"
+msgstr ""
+"Обязательная утилита pngquant необходимая для работы плагина не обнаружена!"
+
+#: StartklarPluginAdminPage.class.php:59
+msgid "The mandatory utility jpegoptim detect!"
+msgstr "Обязательная утилита jpegoptim обнаружена!"
+
+#: StartklarPluginAdminPage.class.php:65
+msgid ""
+"The mandatory utility jpegoptim required for the plugin to work is missing!"
+msgstr ""
+"Обязательная утилита jpegoptim необходимая для работы плагина не обнаружена!"
+
+#: StartklarPluginAdminPage.class.php:74
+msgid "Count image in base:"
+msgstr "Количество картинок в базе:"
+
+#: StartklarPluginAdminPage.class.php:84
+msgid "Select the number of optimized images for one pass:"
+msgstr "Выберите количество оптимизируемых картинок за один запуск:"
+
+#: StartklarPluginAdminPage.class.php:103
+msgid "Please, enter numbers or enter an integer!"
+msgstr "Пожалуйста, введите целое число!"
+
+#: StartklarPluginAdminPage.class.php:127
+msgid "Optimized image: "
+msgstr "Оптимизированные картинки: "
+
+#: StartklarPluginAdminPage.class.php:130
+msgid "Optimized image: 0"
+msgstr "Оптимизированные картинки: 0"
+
+#: StartklarPluginAdminPage.class.php:148
+msgid "All image in your base: "
+msgstr "Общее количество картинок в базе: "
+
+#: StartklarPluginAdminPage.class.php:151
+msgid "All image in your base: 0"
+msgstr "Общее количество картинок в базе: 0"

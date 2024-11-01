@@ -1,0 +1,17 @@
+{
+    "name": "startklar/image_optimizer",
+    "autoload": {
+        "psr-4": {
+            "Startklar\\ImageOptimizer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CatMasik",
+            "email": "catmasik@gmail.com"
+        }
+    ],
+    "require": {
+        "ps/image-optimizer": "^2.0"
+    }
+}
